@@ -1,1 +1,1 @@
-hello hello, here is a bit of text to commit and push. 
+hello hello, here is a bit of text to commit and push. A projekt by testing git and git-commands and how they work. 
